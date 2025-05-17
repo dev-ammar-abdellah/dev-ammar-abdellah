@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Ammar</h1>
+<h3 align="center">Front-End Developer | Currently learning Flutter 🚀</h3>
 
-<!--
-**dev-ammar-abdellah/dev-ammar-abdellah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00B894&center=true&vCenter=true&width=435&lines=Front-End+Developer;Learning+Flutter+%7C+Dart;Building+Cool+UIs+%7C+Web+%2B+Mobile" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 👨‍💻 I'm a Front-End Developer with solid skills in **HTML**, **CSS**, **JavaScript**, and **React**
+- 📱 Currently learning **Flutter** & **Dart** to build mobile apps
+`
+- 📫 Reach me at: ammarhhh45@gmail.com
+- 🎯 Goal: Create amazing apps that solve real problems!
+
